@@ -20,3 +20,4 @@ c:\Users\lukas\OneDrive\Dokument\SkolProgrammering\Raylib\raylib experiment\obj\
 c:\Users\lukas\OneDrive\Dokument\SkolProgrammering\Raylib\raylib experiment\obj\Debug\net8.0\raylib experiment.pdb
 c:\Users\lukas\OneDrive\Dokument\SkolProgrammering\Raylib\raylib experiment\obj\Debug\net8.0\raylib experiment.genruntimeconfig.cache
 c:\Users\lukas\OneDrive\Dokument\SkolProgrammering\Raylib\raylib experiment\obj\Debug\net8.0\ref\raylib experiment.dll
+c:\Users\lukas\OneDrive\Dokument\SkolProgrammering\Raylib\raylib experiment\obj\Debug\net8.0\raylib experiment.sourcelink.json
